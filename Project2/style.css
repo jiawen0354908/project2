@@ -22,21 +22,18 @@ body{
 
 #navigation{
     height: 45px;
-    background-color: rgb(242, 220, 164);
 }
 
 #menu{
     margin-left: 10px;
     width: 45px;
     height: 45px;
-    background-color: beige;
 }
 
 #logo{
     margin-left: 10px;
     width: 45px;
     height: 45px;
-    background-color: beige;
 }
 
 
@@ -45,7 +42,6 @@ body{
     height: 45px;
     float: left;
     margin-left: 10px;
-    background-color: coral; 
 }
 
 #button{
